@@ -1,0 +1,23 @@
+section {
+    border: 1px solid black;
+    margin: 10px;
+}
+
+#game-section div {
+    display: inline-block;
+}
+
+button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#results {
+    font-size: 48px;
+}
