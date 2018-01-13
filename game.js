@@ -29,15 +29,3 @@ function onCalculateButtonClicked
 function calculateGrade(score) {
   return 'A+';
 }
-
-/** HELPER CODE */
-/** Use the code below to help you build your game. */
-
-/* Returns a random number between 1 and maxNumber. */
-function randomNumber(maxNumber) {
-  return Math.floor(Math.random() * maxNumber) + 1;
-}
-
-/* Example use: random number between 1 and 10. */
-// var randomNum = randomNumber(10);
-// console.log(randomNum);
